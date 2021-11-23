@@ -24,8 +24,8 @@
 				"max":  6.0,
 				"step": 1.0,
 				"defaultValue": 0.0,
-				"minLabel": "전혀 그렇지 않다.",
-				"maxLabel": "매우 많이 그렇다."
+				"minLabel": "전혀 그렇지 않다. (0)",
+				"maxLabel": "매우 많이 그렇다. (+6)"
 			}
 		},
 		{
@@ -40,8 +40,8 @@
 				"max":  6.0,
 				"step": 1.0,
 				"defaultValue": 0.0,
-				"minLabel": "전혀 그렇지 않다.",
-				"maxLabel": "매우 많이 그렇다."
+				"minLabel": "전혀 그렇지 않다. (0)",
+				"maxLabel": "매우 많이 그렇다. (+6)"
 			}
 		},
 		{
@@ -56,8 +56,8 @@
 				"max":  6.0,
 				"step": 1.0,
 				"defaultValue": 0.0,
-				"minLabel": "전혀 그렇지 않다.",
-				"maxLabel": "매우 많이 그렇다."
+				"minLabel": "전혀 그렇지 않다. (0)",
+				"maxLabel": "매우 많이 그렇다. (+6)"
 			}
 		},
 		{
@@ -72,8 +72,8 @@
 				"max":  6.0,
 				"step": 1.0,
 				"defaultValue": 0.0,
-				"minLabel": "전혀 그렇지 않다.",
-				"maxLabel": "매우 많이 그렇다."
+				"minLabel": "전혀 그렇지 않다. (0)",
+				"maxLabel": "매우 많이 그렇다. (+6)"
 			}
 		},
 		{
@@ -88,8 +88,8 @@
 				"max":  6.0,
 				"step": 1.0,
 				"defaultValue": 0.0,
-				"minLabel": "전혀 그렇지 않다.",
-				"maxLabel": "매우 많이 그렇다."
+				"minLabel": "전혀 그렇지 않다. (0)",
+				"maxLabel": "매우 많이 그렇다. (+6)"
 			}
 		},
 		{
@@ -104,8 +104,8 @@
 				"max":  6.0,
 				"step": 1.0,
 				"defaultValue": 0.0,
-				"minLabel": "전혀 그렇지 않다.",
-				"maxLabel": "매우 많이 그렇다."
+				"minLabel": "전혀 그렇지 않다. (0)",
+				"maxLabel": "매우 많이 그렇다. (+6)"
 			}
 		},
 		{
@@ -120,8 +120,8 @@
 				"max":  6.0,
 				"step": 1.0,
 				"defaultValue": 0.0,
-				"minLabel": "전혀 그렇지 않다.",
-				"maxLabel": "매우 많이 그렇다."
+				"minLabel": "전혀 그렇지 않다. (0)",
+				"maxLabel": "매우 많이 그렇다. (+6)"
 			}
 		},
 		{
@@ -136,8 +136,8 @@
 				"max":  6.0,
 				"step": 1.0,
 				"defaultValue": 0.0,
-				"minLabel": "전혀 그렇지 않다.",
-				"maxLabel": "매우 많이 그렇다."
+				"minLabel": "전혀 그렇지 않다. (0)",
+				"maxLabel": "매우 많이 그렇다. (+6)"
 			}
 		},
 		{
@@ -180,12 +180,12 @@
 			"isOtherShown": false,
 			"option": {
 				"type": "LINEAR_SCALE",
-				"min": -3.0,
-				"max":  3.0,
+				"min": 0,
+				"max":  6.0,
 				"step": 1.0,
 				"defaultValue": 0.0,
-				"minLabel": "전혀 스트레스 받지 않았다 (-3)",
-				"maxLabel": "스트레스를 매우 많이 받았다 (+3)"
+				"minLabel": "전혀 스트레스 받지 않았다 (0)",
+				"maxLabel": "스트레스를 매우 많이 받았다 (+6)"
 			}
 		},
 		{
@@ -199,7 +199,7 @@
 				"min": 0.0,
 				"max":  6.0,
 				"step": 1.0,
-				"defaultValue": 3.0,
+				"defaultValue": 0.0,
 				"minLabel": "전혀 방해하지 않았다 (0)",
 				"maxLabel": "매우 많이 방해하였다 (+6)"
 			}
