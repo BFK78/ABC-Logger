@@ -14,6 +14,22 @@
 	"question": [
 		{
 			"title": {
+				"main": "8. 화난 (전혀 그렇지 않다 ~ 보통이다 ~ 매우 많이 그렇다.)",
+				"alt": "화난 (전혀 그렇지 않다 ~ 보통이다 ~ 매우 많이 그렇다.)"
+			},
+			"isOtherShown": false,
+			"option": {
+				"type": "LINEAR_SCALE",
+				"min": 0.0,
+				"max":  6.0,
+				"step": 1.0,
+				"defaultValue": 0.0,
+				"minLabel": "전혀 그렇지 않다.",
+				"maxLabel": "매우 많이 그렇다."
+			}
+		},
+		{
+			"title": {
 				"main": "9. 이 설문 응답 직전에, 내 감정은",
 				"alt": "My emotion right before doing this survey could be rated as"
 			},
