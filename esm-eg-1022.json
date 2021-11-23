@@ -199,7 +199,7 @@
 				"min": 0.0,
 				"max":  6.0,
 				"step": 1.0,
-				"defaultValue": 4.0,
+				"defaultValue": 3.0,
 				"minLabel": "전혀 방해하지 않았다 (0)",
 				"maxLabel": "매우 많이 방해하였다 (+6)"
 			}
