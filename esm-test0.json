@@ -14,6 +14,118 @@
 	"question": [
 		{
 			"title": {
+				"main": "1. 행복한 (전혀 그렇지 않다 ~ 보통이다 ~ 매우 많이 그렇다.)",
+				"alt": "행복한 (전혀 그렇지 않다 ~ 보통이다 ~ 매우 많이 그렇다.)"
+			},
+			"isOtherShown": false,
+			"option": {
+				"type": "LINEAR_SCALE",
+				"min": 0.0,
+				"max":  6.0,
+				"step": 1.0,
+				"defaultValue": 0.0,
+				"minLabel": "전혀 그렇지 않다.",
+				"maxLabel": "매우 많이 그렇다."
+			}
+		},
+		{
+			"title": {
+				"main": "2. 평온한 (전혀 그렇지 않다 ~ 보통이다 ~ 매우 많이 그렇다.)",
+				"alt": "평온한 (전혀 그렇지 않다 ~ 보통이다 ~ 매우 많이 그렇다.)"
+			},
+			"isOtherShown": false,
+			"option": {
+				"type": "LINEAR_SCALE",
+				"min": 0.0,
+				"max":  6.0,
+				"step": 1.0,
+				"defaultValue": 0.0,
+				"minLabel": "전혀 그렇지 않다.",
+				"maxLabel": "매우 많이 그렇다."
+			}
+		},
+		{
+			"title": {
+				"main": "3. 즐거운 (전혀 그렇지 않다 ~ 보통이다 ~ 매우 많이 그렇다.)",
+				"alt": "즐거운 (전혀 그렇지 않다 ~ 보통이다 ~ 매우 많이 그렇다.)"
+			},
+			"isOtherShown": false,
+			"option": {
+				"type": "LINEAR_SCALE",
+				"min": 0.0,
+				"max":  6.0,
+				"step": 1.0,
+				"defaultValue": 0.0,
+				"minLabel": "전혀 그렇지 않다.",
+				"maxLabel": "매우 많이 그렇다."
+			}
+		},
+		{
+			"title": {
+				"main": "4. 만족하는 (전혀 그렇지 않다 ~ 보통이다 ~ 매우 많이 그렇다.)",
+				"alt": "만족하는 (전혀 그렇지 않다 ~ 보통이다 ~ 매우 많이 그렇다.)"
+			},
+			"isOtherShown": false,
+			"option": {
+				"type": "LINEAR_SCALE",
+				"min": 0.0,
+				"max":  6.0,
+				"step": 1.0,
+				"defaultValue": 0.0,
+				"minLabel": "전혀 그렇지 않다.",
+				"maxLabel": "매우 많이 그렇다."
+			}
+		},
+		{
+			"title": {
+				"main": "5. 슬픈 (전혀 그렇지 않다 ~ 보통이다 ~ 매우 많이 그렇다.)",
+				"alt": "슬픈 (전혀 그렇지 않다 ~ 보통이다 ~ 매우 많이 그렇다.)"
+			},
+			"isOtherShown": false,
+			"option": {
+				"type": "LINEAR_SCALE",
+				"min": 0.0,
+				"max":  6.0,
+				"step": 1.0,
+				"defaultValue": 0.0,
+				"minLabel": "전혀 그렇지 않다.",
+				"maxLabel": "매우 많이 그렇다."
+			}
+		},
+		{
+			"title": {
+				"main": "6. 불안한 (전혀 그렇지 않다 ~ 보통이다 ~ 매우 많이 그렇다.)",
+				"alt": "불안한 (전혀 그렇지 않다 ~ 보통이다 ~ 매우 많이 그렇다.)"
+			},
+			"isOtherShown": false,
+			"option": {
+				"type": "LINEAR_SCALE",
+				"min": 0.0,
+				"max":  6.0,
+				"step": 1.0,
+				"defaultValue": 0.0,
+				"minLabel": "전혀 그렇지 않다.",
+				"maxLabel": "매우 많이 그렇다."
+			}
+		},
+		{
+			"title": {
+				"main": "7. 우울한 (전혀 그렇지 않다 ~ 보통이다 ~ 매우 많이 그렇다.)",
+				"alt": "우울한 (전혀 그렇지 않다 ~ 보통이다 ~ 매우 많이 그렇다.)"
+			},
+			"isOtherShown": false,
+			"option": {
+				"type": "LINEAR_SCALE",
+				"min": 0.0,
+				"max":  6.0,
+				"step": 1.0,
+				"defaultValue": 0.0,
+				"minLabel": "전혀 그렇지 않다.",
+				"maxLabel": "매우 많이 그렇다."
+			}
+		},
+		{
+			"title": {
 				"main": "8. 화난 (전혀 그렇지 않다 ~ 보통이다 ~ 매우 많이 그렇다.)",
 				"alt": "화난 (전혀 그렇지 않다 ~ 보통이다 ~ 매우 많이 그렇다.)"
 			},
