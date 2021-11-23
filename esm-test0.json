@@ -8,8 +8,8 @@
 		"alt": "설문에 응답해주세요"
 	},
 	"instruction": {
-		"main": "설문 응답 시작 시각 기준으로 아래에 응답해주세요",
-		"alt": "설문 응답 시작 시각 기준으로 아래에 응답해주세요"
+		"main": "질문 응답을 하기 직전을 기준으로, 다음과 같은 감정을 어느 정도 느꼈습니까?",
+		"alt": "질문 응답을 하기 직전을 기준으로, 다음과 같은 감정을 어느 정도 느꼈습니까?"
 	},
 	"question": [
 		{
@@ -224,21 +224,21 @@
 	"intraDaySchedule": {
 		"type": "INTERVAL",
 		"timeFrom": {
-			"hour": 12,
+			"hour": 10,
 			"minute": 0,
 			"second": 0
 		},
 		"timeTo": {
-			"hour": 23,
+			"hour": 21,
 			"minute": 59,
 			"second": 59
 		},
 		"intervalDefault": {
-			"amount": 30,
+			"amount": 50,
 			"unit": "MINUTE"
 		},
 		"intervalFlex": {
-			"amount": 30,
+			"amount": 40,
 			"unit": "MINUTE"
 		}
 	}
