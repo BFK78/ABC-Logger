@@ -117,7 +117,7 @@ dependencies {
     /**
      * Eventbus for delivering events
      */
-    implementation 'org.greenrobot:eventbus:3.2.0'
+    implementation 'org.greenrobot:eventbus:3.3.1
 
     /**
      * Firebase
